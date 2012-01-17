@@ -1,5 +1,3 @@
-# Readme
-
 [Emberwind HTML5](http://operasoftware.github.com/Emberwind/) is a HTML5 port of the C++ implementation of Emberwind ("lite" version) by indie game developer [TimeTrap AB](http://www.timetrap.se)
 
 * __License:__ [New BSD](https://github.com/operasoftware/Emberwind/blob/master/LICENSE)
