@@ -6,4 +6,3 @@
 ## Install
 
 Emberwind HTML5 runs on all the modern desktop browsers of 2011 as well as Opera Mobile, Safari for iOS and the Android browser. The game can be launched directly from the [github pages](http://operasoftware.github.com/Emberwind/).
-
